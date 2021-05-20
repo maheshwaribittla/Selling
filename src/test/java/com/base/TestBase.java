@@ -74,7 +74,7 @@ public class TestBase {
 			try {
 				or.load(fis);
 
-				log.info("loaded the or properties file");
+				log.info("loaded the or file");
 
 			} catch (IOException e) {
 				// TODO Auto-generated catch block
