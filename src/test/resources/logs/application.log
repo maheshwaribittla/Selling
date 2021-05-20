@@ -1,0 +1,25 @@
+[INFO ] 2021-05-17 20:57:14.765 [main] TestBase - properties file Input stream object created
+[INFO ] 2021-05-17 20:57:14.772 [main] TestBase - loaded the config properties file
+[INFO ] 2021-05-17 20:57:14.772 [main] TestBase - loaded the or properties file
+[INFO ] 2021-05-17 20:57:16.588 [main] TestBase - chrome browser launched
+[INFO ] 2021-05-17 20:57:17.119 [main] TestBase - loaded URL
+[INFO ] 2021-05-17 20:57:18.367 [main] TestBase - clicked on bank manager login button
+[INFO ] 2021-05-17 20:57:19.415 [main] TestBase - login success
+[INFO ] 2021-05-17 20:57:19.574 [main] TestBase - Excel Row Size is3
+[INFO ] 2021-05-17 20:57:19.574 [main] TestBase - Excel column Size is3
+[INFO ] 2021-05-17 20:57:19.625 [main] TestBase - clicked on Add customer Button
+[INFO ] 2021-05-17 20:57:19.753 [main] TestBase - Entered First Name: Anwesh
+[INFO ] 2021-05-17 20:57:19.816 [main] TestBase - Entered last Name: sfhjh
+[INFO ] 2021-05-17 20:57:19.883 [main] TestBase - Entered postal code: 734757JH
+[INFO ] 2021-05-17 20:57:19.955 [main] TestBase - customer added
+[INFO ] 2021-05-17 20:57:23.042 [main] TestBase - clicked on Add customer Button
+[INFO ] 2021-05-17 20:57:23.106 [main] TestBase - Entered First Name: prakash
+[INFO ] 2021-05-17 20:57:23.168 [main] TestBase - Entered last Name: fksadskhh
+[INFO ] 2021-05-17 20:57:23.231 [main] TestBase - Entered postal code: 529587487
+[INFO ] 2021-05-17 20:57:23.280 [main] TestBase - customer added
+[INFO ] 2021-05-17 20:57:26.334 [main] TestBase - Excel Row Size is: 3
+[INFO ] 2021-05-17 20:57:26.334 [main] TestBase - Excel column Size is: 2
+[INFO ] 2021-05-17 20:57:26.388 [main] TestBase - clicked on open customer Button
+[INFO ] 2021-05-17 20:57:29.823 [main] TestBase - clicked on open customer Button
+[INFO ] 2021-05-17 20:57:33.135 [main] TestBase - Excel Row Size is4
+[INFO ] 2021-05-17 20:57:33.135 [main] TestBase - Excel column Size is1
