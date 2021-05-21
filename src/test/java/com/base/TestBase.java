@@ -55,7 +55,7 @@ public class TestBase {
 			try {
 				config.load(fis);
 
-				log.info("loaded the config properties file successfully");
+				log.info("loaded the config properties file ");
 
 			} catch (IOException e) {
 				// TODO Auto-generated catch block
